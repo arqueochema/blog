@@ -1,10 +1,10 @@
 # general content
 
-title: Erreza
-email: alex@worldx3.com
-description: Simple Jekyll theme
-baseurl: "/erreza" # /erreza
-url: "https://gruncho.github.io/erreza" # https://gruncho.github.io/erreza
+title: Blog Chema
+email: jmnavarrogomez@gmail.com
+description: Chema Navarro blog
+baseurl: "/blog" # /erreza
+url: "https://arqueochema.github.io/blog" # https://gruncho.github.io/erreza
 
 markdown: kramdown
 exclude:
