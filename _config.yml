@@ -1,0 +1,27 @@
+# general content
+
+title: Erreza
+email: alex@worldx3.com
+description: Simple Jekyll theme
+baseurl: "/erreza" # /erreza
+url: "https://gruncho.github.io/erreza" # https://gruncho.github.io/erreza
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Sass settings
+
+sass:
+  sass_dir: assets/scss
+  style: :compressed
+
+# Gems
+
+plugins:
+  - jekyll-feed
+
+authors:
+  gruncho:
+    name: gruncho
