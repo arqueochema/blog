@@ -21,12 +21,12 @@ Visita la web de Structuralia
 
 ### Otros proyectos anteriores:
 Durante años he colaborado en múltiples proyecto diseñando Productos y Servicios siempre enfocados al mundo digital y el eLearning principalmente. Algunos de los proyectos que me siento más orgulloso:
-#####Codecantor
+##### Codecantor
 Codecantor es una agencia de diseño de productos digitales, durante un par de años colaboré definiendo el área de negocio y mejorando los procesos de venta. Ahora vuelan libres y su crecimiento es realmente espectacular.
-#####ConectaLAB
+##### ConectaLAB
 En 2014 construimos la mayor cooperativa de innovación, al menos en aquel momento. 28 personas especialziadas en diferentes áreas colaborando en un solo espacio de trabajo. Fuí parte del Consejo Rector y fue una gran experiencia personal y profesional.
-CIEMAD
-#####Cuando tenía 30 años intenté aunar dos pasiones de mi vida: la Arqueología y la Formaciñon online. El resultado fue CIEMAD, con miles de alumnos en el mundo y una gran experiencia profesional y personal.
+##### CIEMAD
+Cuando tenía 30 años intenté aunar dos pasiones de mi vida: la Arqueología y la Formaciñon online. El resultado fue CIEMAD, con miles de alumnos en el mundo y una gran experiencia profesional y personal.
 
 
 
