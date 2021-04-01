@@ -7,7 +7,9 @@ author: Chema
 ---
 ### ¡Hola!
 
-Soy Chema Navarro. Experto en eLearning y apasionado de la innovación, el emprendimiento y como la tecnología está cambiando el mundo cada día. Soy marvelita al 80% y seguidor de DC al 20%. Jedi quijotesco, rojiblanco de nacimiento y padre una niña maravillosa. 
+Soy Chema Navarro. Experto en eLearning y apasionado de la innovación, el emprendimiento y como la tecnología está cambiando el mundo cada día. Arqueólogo de formación, pude transformarme digitalmente hace más de 10 años y entiendo perfectamente lo complicado pero maravilloso que puede ser a la vez. 
+
+Soy marvelita al 80% y seguidor de DC al 20%. Jedi quijotesco, rojiblanco de nacimiento y padre una niña maravillosa. 
 
 En esta apartado del blog encontrarás información sobre mis proyectos y mi trabajo.
 
